@@ -1,3 +1,5 @@
 modificamos archivo1 para probar el reset del add
 
 comprobando el git ignore
+
+comprobando git ignore
