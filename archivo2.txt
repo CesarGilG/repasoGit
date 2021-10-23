@@ -1,2 +1,1 @@
-
-comprobando el git ignore
+Al crear el gitignore me ignora los archivos creados
