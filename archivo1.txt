@@ -5,3 +5,4 @@ comprobando el git ignore
 comprobando git ignore
 
 cambiando rama1
+cambios en rama2
